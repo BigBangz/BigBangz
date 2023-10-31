@@ -28,16 +28,14 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 </p>
 
- 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=BigBangz&theme=redical">
-</p>
-
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=BigBangz&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 <!--
+<p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
 **BigBangz/BigBangz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
