@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Zheng Chen</h1>
+- 📝 I regularly write articles on [https://bigbangz.github.io](https://bigbangz.github.io)
+<h3 align="left">Languages and Tools:</h3>
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=BigBangz&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BigBangz&theme=radical">
