@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zheng Chen</h1>
-- 📝 I regularly write articles on [https://bigbangz.github.io](https://bigbangz.github.io)
+● 📝 I regularly write articles on [https://bigbangz.github.io](https://bigbangz.github.io)
 <h3 align="left">Languages and Tools:</h3>
 
 <p align = "center">
