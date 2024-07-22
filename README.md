@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zheng Chen</h1>
+<p align = "center">
 ● 📝 I regularly write articles on https://bigbangz.github.io
+</p>
 <h2 align="center">Languages and Tools:</h2>
 
 <p align = "center">
